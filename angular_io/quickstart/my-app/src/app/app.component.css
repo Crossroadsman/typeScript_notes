@@ -1,0 +1,9 @@
+:host {
+    --main-color: #369;
+}
+
+h1 {
+    color: var(--main-color);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 250%;
+}
