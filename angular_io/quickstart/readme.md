@@ -13,6 +13,6 @@ Installation and Setup
 
 Footnotes
 ---------
-<a name="footnote01">1.</a> `-g` means to install into global context. `@angular/CLI` is the package name.
+<a name="footnote01">1.</a> `-g` means to install into global context. `@angular/CLI` is the package name.  
 <a name="footnote02">2.</a> By default, angular CLI wants to create its own git repo. It is likely that any project will already be inside 
-a VCS so this is harmful. Use the `--skip-git` flag to prevent this.
+a VCS so this is harmful. Use the `--skip-git` flag to prevent this.  
