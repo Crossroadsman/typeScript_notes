@@ -1,3 +1,8 @@
+/* although various guides recommend using :root, this causes problems with
+   frameworks so it is often better to use :host.
+   See:
+   https://stackoverflow.com/questions/48380267/css-variables-root-vs-host
+*/
 :host {
     --main-color: #369;
 }
