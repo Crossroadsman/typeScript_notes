@@ -18,7 +18,8 @@ tsc --init
 {
  "compilerOptions": {
    "target": "es6",
-   "strict": true
+   "strict": true,
+   "outDir": "js"
  }
 }
 ```
