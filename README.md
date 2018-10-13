@@ -12,6 +12,17 @@ Starting a TS Project
 tsc --init
 ```
 
+- Edit the tsconfig.json file to include preferred settings inside `"compilerOptions"`, e.g.:
+
+```JSON
+{
+ "compilerOptions": {
+   "target": "es6",
+   "strict": true
+ }
+}
+```
+
 - Optionally create a subdirectory for the ts/js src files
 
 ```Bash
