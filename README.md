@@ -14,7 +14,7 @@ tsc --init
 
 - Edit the tsconfig.json file to include preferred settings inside `"compilerOptions"`, e.g.:
 
-```JSON
+```jsonc
 {
  "compilerOptions": {
    "target": "es6",
